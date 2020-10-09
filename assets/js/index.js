@@ -41,7 +41,7 @@ function getUserInfo() {
         // 不论成功还是失败, 都会调用 complete 回调函数
         // complete: function (res) {
         //     // console.log(res);
-            
+
         //     if (res.responseJSON.status === 1 && res.responseJSON.message === "身份认证失败！") {
 
         //         localStorage.removeItem('token')
